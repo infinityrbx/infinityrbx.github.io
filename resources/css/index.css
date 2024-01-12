@@ -1,0 +1,37 @@
+* {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  /* background-image: url("https://img.freepik.com/premium-vector/mexican-style-abstract-background-seamless-vector-pattern-illustration-black-orange-colors_79202-465.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph"); */
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  font-weight: bold;
+  color: blue;
+}
+
+.bki {
+  background-image: url("https://img.freepik.com/premium-vector/mexican-style-abstract-background-seamless-vector-pattern-illustration-black-orange-colors_79202-465.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+.bkc_lightcoral {
+  background-color: lightcoral;
+}
+.bkc_mediumspringgreen {
+  background-color: mediumspringgreen;
+}
+.bkc_skyblue {
+  background-color: skyblue;
+}
